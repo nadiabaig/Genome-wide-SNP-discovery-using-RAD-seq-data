@@ -1,6 +1,6 @@
 ## Single nucleotide polymorphism (SNP) detection using RAD-seq data
 
-This bash script allows to do  a basic hand's own on your NGS RAD-seq data.
+This bash script allows to do  a basic hand's on on your NGS RAD-seq data.
 
 
 # Background
