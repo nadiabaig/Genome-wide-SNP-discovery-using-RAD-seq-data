@@ -31,6 +31,20 @@ To make sense of the reads, they must be aligned to the reference genome of inte
 
 It is important to check the stats (alignment %) of your reads before processing your files further. Make sure to check the statistics, then do variant calling. Sometime the SNPs in your VCF file seems to be false positives. It's important to clean your data before publishing and applying any statistics or doing any analysis.
 
+## References
+
+Li, H., Handsaker, B., Wysoker, A., Fennell, T., Ruan, J., Homer, N., ... & Durbin, R. (2009). The sequence alignment/map format and SAMtools. Bioinformatics, 25(16), 2078-2079.
+
+Catchen J, Hohenlohe PA, Bassham S, Amores A, Cresko WA: Stacks: an analysis tool set for population genomics. Mol Ecol. 2013, 22: 3124-3140. 10.1111/mec.12354.
+
+Jo, H., & Koh, G. (2015). Faster single-end alignment generation utilizing multi-thread for BWA. Bio-medical materials and engineering, 26(s1), S1791-S1796.
+
+https://github.com/broadinstitute/gatk.
+
+
+
+
+
 
 
 
